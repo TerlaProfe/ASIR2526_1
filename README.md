@@ -1,5 +1,7 @@
 # ASIR2526_1
 
+arteza.es
+nuevo integrante pixel
 hola Ester
 [arteza.es](https://arteza.es)
 
