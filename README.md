@@ -2,7 +2,9 @@
 
 hola Ester
 [arteza.es](https://arteza.es)
-<img width="740" height="494" alt="imachen" src="https://github.com/user-attachments/assets/0cb2cce2-5121-4e49-8da2-8eebe8376685" />
+
+<img width="5000" height="6070" alt="imachen" src="https://github.com/user-attachments/assets/960d0d58-b98c-455d-84c3-2995fb5b7415" />
+
 
 hola soy agustin
 
