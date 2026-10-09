@@ -6,7 +6,7 @@ hola Ester
 
 hola soy agustin
 
-El viernes se aprueba - Es el jueves compi
+El viernes se aprueba - Es el jueves compi - es verdad
 ദ്ദി(˵ •̀ ᴗ - ˵ ) ✧
 
 El contenido de este repositorio ha sido actualizado. 
